@@ -137,7 +137,7 @@ I enjoy learning new technologies and turning ideas into real projects. My curre
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
-## 🏍️ // Garage · Featured Work
+##  Featured Work
 
 <table>
 <tr>
