@@ -1,73 +1,158 @@
+
+<!--
+  MEHRDADDEVV | Minimal Blue Developer Profile
+-->
+
 <div align="center">
-  <img src="assets/banner.svg" alt="Mehrdad, developer dashboard" width="100%" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:142B4F,100:2563EB&height=190&section=header&text=MEHRDAD&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%7C%20BUILDING%20DIGITAL%20EXPERIENCES&descSize=13&descAlignY=68&animation=fadeIn" width="100%" />
 
 <br/>
 
-<div align="center">
+# Hi, I'm Mehrdad 👋
 
-[![Django](https://img.shields.io/badge/DJANGO-0d0d0d?style=flat-square&labelColor=0d0d0d&color=f59e0b)](#)
-[![Persian](https://img.shields.io/badge/PERSIAN-RTL-0d0d0d?style=flat-square&labelColor=0d0d0d&color=fb923c)](#)
-[![Followers](https://img.shields.io/github/followers/mehrdaddevv?style=flat-square&labelColor=0d0d0d&color=f59e0b&logo=github&logoColor=f5f1e8)](https://github.com/mehrdaddevv?tab=followers)
-[![Last commit](https://img.shields.io/github/last-commit/mehrdaddevv/mehrdaddevv?style=flat-square&labelColor=0d0d0d&color=fb923c)](https://github.com/mehrdaddevv/mehrdaddevv/commits/main)
+### Junior Developer | Python & Web Development
+
+<p dir="rtl">
+هنرجوی شبکه و نرم‌افزار، علاقه‌مند به برنامه‌نویسی،
+طراحی وب و ساخت محصولات دیجیتال.
+<br/>
+در حال یادگیری، تجربه کردن و تبدیل ایده‌ها به پروژه‌های واقعی.
+</p>
+
+<br/>
+
+<a href="https://github.com/mehrdaddevv">
+  <img src="https://img.shields.io/badge/GitHub-Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/mehrdaddevv?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 🔧 Odometer
+## 👨‍💻 About Me
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mehrdaddevv&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=fb923c&text_color=d6d3cc" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdaddevv&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=d6d3cc" alt="Top languages" width="49%" />
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mehrdad"
+        self.username = "mehrdaddevv"
+        self.role = "Student Developer"
+        self.location = "Iran"
 
-### ⚙️ Gear Selector
+        self.interests = [
+            "Web Development",
+            "Backend Development",
+            "Software Engineering",
+            "Technology"
+        ]
 
-<div align="center">
+        self.current_focus = [
+            "Python",
+            "Django",
+            "JavaScript",
+            "Git & GitHub"
+        ]
 
-![Python](https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=f59e0b)
-![Django](https://img.shields.io/badge/DJANGO-0d0d0d?style=for-the-badge&logo=django&logoColor=f59e0b)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
-### 🏍️ Garage
-
-<a href="https://github.com/mehrdaddevv/motor-yadak"><img src="assets/card_motoryadak.svg" alt="motor-yadak" width="100%" /></a>
-
-### 🛠️ Service Log
-
-```text
-mehrdad@garage:~$ status
-  ▸ in progress   motor-yadak       فروشگاه لوازم یدکی با Django
-  ▸ learning      system design     مقیاس‌پذیری و کش
-  ▸ available     freelance / collab پروژه‌های وب با تمرکز بر فارسی
+    def say_hello(self):
+        return "Always learning, always building."
 ```
 
-### 📝 Shop Rules
+---
 
-| | |
-|---|---|
-| **Clean code** | کدی که شش ماه بعد هم بتوانم بخوانم، بهترین کد است. |
-| **RTL from day one** | جهت متن و فونت را از اول طراحی می‌کنم، نه در آخر کار. |
-| **Ship, then tune** | نسخه‌ی کارا را زودتر منتشر می‌کنم و بعد بهینه‌سازی می‌کنم. |
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+<br/><br/>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=django,postgres,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mehrdaddevv?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+### 🏍️ Motor Yadak
 
 <div dir="rtl">
 
-**سلام!** من مهرداد هستم. اگر ایده‌ای داری، یا دنبال کسی برای ساخت یک وب‌اپ فارسی هستی، خوشحال می‌شوم بشنوم.
+فروشگاه اینترنتی لوازم یدکی موتورسیکلت با تمرکز بر تجربه کاربری مناسب، طراحی فارسی و پشتیبانی از زبان راست‌چین.
 
 </div>
 
-### 📡 Ride With Me
+**Technologies:** Django · JavaScript · HTML · CSS
+
+**Status:** In Progress
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-mehrdad-f59e0b?style=for-the-badge&labelColor=0d0d0d&logo=gmail&logoColor=f5f1e8)](mailto:you@example.com)
-[![GitHub](https://img.shields.io/badge/REPOS-mehrdaddevv-fb923c?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=f5f1e8)](https://github.com/mehrdaddevv?tab=repositories)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehrdaddevv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdaddevv&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrdaddevv&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdaddevv&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Improve Python and Django skills
+- [ ] Build professional web applications
+- [ ] Learn advanced JavaScript
+- [ ] Improve software architecture knowledge
+- [ ] Contribute to open-source projects
+
+---
+
+<div align="center">
+
+### Let's Build Something Great.
+
+**Learning by building. Growing by creating.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mehrdaddevv&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<sub>Designed & Developed by Mehrdad · 2026</sub>
 
 </div>
