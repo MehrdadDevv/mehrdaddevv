@@ -1,105 +1,73 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Mehrdad+Amirabadian;Aspiring+Software+Developer;Building+things+for+the+web;Learning+HTML+%7C+CSS+%7C+JS+%7C+Python" alt="Typing animation" />
+  <img src="assets/banner.svg" alt="Mehrdad, developer dashboard" width="100%" />
+</div>
 
 <br/>
 
-### `> whoami`
-**Mehrdad Amirabadian** — هنرجوی شبکه و نرم‌افزار، در مسیر تبدیل شدن به یک توسعه‌دهنده نرم‌افزار حرفه‌ای.
+<div align="center">
+
+[![Django](https://img.shields.io/badge/DJANGO-0d0d0d?style=flat-square&labelColor=0d0d0d&color=f59e0b)](#)
+[![Persian](https://img.shields.io/badge/PERSIAN-RTL-0d0d0d?style=flat-square&labelColor=0d0d0d&color=fb923c)](#)
+[![Followers](https://img.shields.io/github/followers/mehrdaddevv?style=flat-square&labelColor=0d0d0d&color=f59e0b&logo=github&logoColor=f5f1e8)](https://github.com/mehrdaddevv?tab=followers)
+[![Last commit](https://img.shields.io/github/last-commit/mehrdaddevv/mehrdaddevv?style=flat-square&labelColor=0d0d0d&color=fb923c)](https://github.com/mehrdaddevv/mehrdaddevv/commits/main)
 
 </div>
 
 ---
 
-## 🧠 About Me
+### 🔧 Odometer
 
-- 🎓 هنرجوی رشته **شبکه و نرم‌افزار**
-- 💻 علاقه‌مند به **برنامه‌نویسی**، **توسعه وب** و **فناوری**
-- 🎮 گیمر و کنجکاو درباره‌ی هر چیزی که با کد و سیستم سروکار دارد
-- 🎯 هدف: ساخت محصولات دیجیتال کاربردی و تمیز و تبدیل شدن به یک **Software Developer** حرفه‌ای
-- 📚 در حال حاضر روی **Web Fundamentals** و **Python** تمرکز دارم
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mehrdaddevv&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=fb923c&text_color=d6d3cc" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdaddevv&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=d6d3cc" alt="Top languages" width="49%" />
+</div>
 
----
-
-## ⚡ Tech Stack
-
-**Languages & Markup**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📈 Currently Learning
-
-| Skill | Status |
-|-------|--------|
-| 🌐 HTML & CSS (Responsive Layouts) | 🟢 Active |
-| 🟨 JavaScript (DOM & Logic) | 🟢 Active |
-| 🐍 Python (Fundamentals) | 🟢 Active |
-| 🔧 Git & GitHub Workflow | 🟡 In Progress |
-
----
-
-## 🚀 Featured Projects
-
-> این بخش با پروژه‌های واقعی به‌روزرسانی می‌شود.
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| *Coming soon* | — | — |
-
----
-
-## 📊 GitHub Stats
+### ⚙️ Gear Selector
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehrdaddevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdaddevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
-
-<br/>
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=mehrdaddevv&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+![Python](https://img.shields.io/badge/PYTHON-0d0d0d?style=for-the-badge&logo=python&logoColor=f59e0b)
+![Django](https://img.shields.io/badge/DJANGO-0d0d0d?style=for-the-badge&logo=django&logoColor=f59e0b)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/GIT-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
----
+### 🏍️ Garage
 
-## 📅 Contribution Activity
+<a href="https://github.com/mehrdaddevv/motor-yadak"><img src="assets/card_motoryadak.svg" alt="motor-yadak" width="100%" /></a>
 
-<div align="center">
+### 🛠️ Service Log
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdaddevv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" />
+```text
+mehrdad@garage:~$ status
+  ▸ in progress   motor-yadak       فروشگاه لوازم یدکی با Django
+  ▸ learning      system design     مقیاس‌پذیری و کش
+  ▸ available     freelance / collab پروژه‌های وب با تمرکز بر فارسی
+```
+
+### 📝 Shop Rules
+
+| | |
+|---|---|
+| **Clean code** | کدی که شش ماه بعد هم بتوانم بخوانم، بهترین کد است. |
+| **RTL from day one** | جهت متن و فونت را از اول طراحی می‌کنم، نه در آخر کار. |
+| **Ship, then tune** | نسخه‌ی کارا را زودتر منتشر می‌کنم و بعد بهینه‌سازی می‌کنم. |
+
+<div dir="rtl">
+
+**سلام!** من مهرداد هستم. اگر ایده‌ای داری، یا دنبال کسی برای ساخت یک وب‌اپ فارسی هستی، خوشحال می‌شوم بشنوم.
 
 </div>
 
----
-
-## 🤝 Connect With Me
-
-<!-- لینک‌های شبکه‌های اجتماعی و ایمیل خود را اینجا اضافه کنید -->
-
-<p>
-  <img src="https://img.shields.io/badge/Profile-mehrdaddevv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
+### 📡 Ride With Me
 
 <div align="center">
 
-<sub>✨ "Code is poetry, and every commit is a new verse." ✨</sub>
+[![Email](https://img.shields.io/badge/EMAIL-mehrdad-f59e0b?style=for-the-badge&labelColor=0d0d0d&logo=gmail&logoColor=f5f1e8)](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/REPOS-mehrdaddevv-fb923c?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=f5f1e8)](https://github.com/mehrdaddevv?tab=repositories)
 
 </div>
