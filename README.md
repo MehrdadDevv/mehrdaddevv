@@ -1,16 +1,25 @@
 
 <!-- =====================================================
-     MEHRDADDEVV | BLUE DEVELOPER DASHBOARD
-     Design: Minimal / Technical / Blue
+     MEHRDADDEVV | BLUE CODE PROFILE
+     Minimal / Technical / Blue
 ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,45:10264B,100:2563EB&height=220&section=header&text=MEHRDAD&fontSize=76&fontColor=F4F7FF&fontAlign=8&fontAlignY=43&desc=//%20STUDENT%20DEVELOPER%20%C2%B7%20WEB%20DEVELOPMENT&descSize=13&descAlign=8&descAlignY=67&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:142B4F,100:2563EB&height=220&section=header&text=MEHRDAD&fontSize=78&fontColor=F4F7FF&fontAlignY=43&desc=//%20STUDENT%20DEVELOPER%20%C2%B7%20WEB%20DEVELOPMENT&descSize=13&descAlignY=70&animation=fadeIn" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Python+%C2%B7+Django+%C2%B7+JavaScript;Building+digital+experiences;Learning+and+building+piece+by+piece" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Python+%C2%B7+Django+%C2%B7+JavaScript;Building+digital+experiences;Learning+%26+building+piece+by+piece" />
+</div>
+
+<div align="center">
+
+[![Django](https://img.shields.io/badge/DJANGO-2563EB?style=flat-square&logo=django&logoColor=white&labelColor=101014)](#)
+[![Persian](https://img.shields.io/badge/PERSIAN-RTL-142B4F?style=flat-square&labelColor=101014)](#)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmehrdaddevv&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&labelColor=101014&color=2563EB)](https://github.com/mehrdaddevv?tab=repositories)
+[![Location](https://img.shields.io/badge/TEHRAN-IRAN-2563EB?style=flat-square&labelColor=101014)](#)
+[![Followers](https://img.shields.io/github/followers/mehrdaddevv?style=flat-square&labelColor=101014&color=2563EB&logo=github&logoColor=60A5FA)](https://github.com/mehrdaddevv?tab=followers)
+[![Last commit](https://img.shields.io/github/last-commit/mehrdaddevv/mehrdaddevv?style=flat-square&labelColor=101014&color=2563EB)](https://github.com/mehrdaddevv/mehrdaddevv/commits/main)
 
 </div>
 
@@ -18,50 +27,25 @@
 
 <div align="center">
 
-```text
-mehrdad@developer:~$ profile --status
-
-> DEVELOPER     Student / Network & Software
-> FOCUS         Web Development
-> BACKEND       Python / Django
-> FRONTEND      HTML / CSS / JavaScript
-> DATABASE      PostgreSQL
-> VERSION CTRL  Git / GitHub
-```
-
-<img src="https://img.shields.io/badge/DJANGO-2563EB?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PERSIAN-142B4F?style=flat-square" />
-<img src="https://img.shields.io/badge/RTL-2563EB?style=flat-square" />
-<img src="https://img.shields.io/github/followers/mehrdaddevv?style=flat-square&color=2563EB&label=followers" />
-<img src="https://komarev.com/ghpvc/?username=mehrdaddevv&style=flat-square&color=2563EB&label=profile+views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 </div>
 
----
+## 👨🏻‍💻 // MEHRDAD · The short version
 
-## ⚔️ // About Me
+I am **Mehrdad**, a Network & Software student interested in programming, web development and building digital products.
 
-<div align="center">
+I enjoy learning new technologies and turning ideas into real projects. My current focus is **Python, Django and modern web development**.
 
-### MEHRDAD · The short version
+<div dir="rtl">
+
+**فارسی:** سلام! من مهرداد هستم، هنرجوی رشته شبکه و نرم‌افزار. به برنامه‌نویسی، طراحی وب و تکنولوژی علاقه دارم. در حال یادگیری و توسعه مهارت‌هایم در زمینه Python، Django و JavaScript هستم و دوست دارم ایده‌هایم را به پروژه‌های واقعی تبدیل کنم.
 
 </div>
 
-سلام! من مهرداد هستم؛ هنرجوی رشته شبکه و نرم‌افزار و علاقه‌مند به دنیای برنامه‌نویسی و تکنولوژی.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
-به توسعه وب، طراحی رابط کاربری و ساخت نرم‌افزار علاقه دارم. در حال یادگیری Python و Django هستم و سعی می‌کنم آموخته‌هایم را در پروژه‌های واقعی به کار بگیرم.
-
-My interests:
-
-- Web Development
-- Backend Development
-- Software Engineering
-- UI / UX
-- Technology & Gaming
-
----
-
-## 📊 // Developer Overview
+## 📊 // The Overview
 
 <div align="center">
 
@@ -69,46 +53,46 @@ My interests:
 <tr>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/01-2563EB?style=for-the-badge" />
+<h1>01</h1>
 
-<br/><br/>
+<sub>STUDENT</sub>
 
-**WEB**
+<br/>
 
-<sub>Development</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/02-2563EB?style=for-the-badge" />
-
-<br/><br/>
-
-**PYTHON**
-
-<sub>Backend</sub>
+<sub>Network & Software</sub>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/03-2563EB?style=for-the-badge" />
+<h1>02</h1>
 
-<br/><br/>
+<sub>BACKEND</sub>
 
-**DJANGO**
+<br/>
 
-<sub>Framework</sub>
+<sub>Python & Django</sub>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/04-2563EB?style=for-the-badge" />
+<h1>03</h1>
 
-<br/><br/>
+<sub>FRONTEND</sub>
 
-**GIT**
+<br/>
 
-<sub>Version Control</sub>
+<sub>HTML / CSS / JS</sub>
+
+</td>
+<td align="center" width="25%">
+
+<h1>04</h1>
+
+<sub>VERSION CTRL</sub>
+
+<br/>
+
+<sub>Git & GitHub</sub>
 
 </td>
 </tr>
@@ -116,25 +100,25 @@ My interests:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
-## 🛠️ // Arsenal
+## ⚙️ // Arsenal
 
 <div align="center">
 
-### LANGUAGES
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
 <br/><br/>
 
-### FRAMEWORKS & DATABASE
+**FRAMEWORKS & DATABASE**
 
 <img src="https://skillicons.dev/icons?i=django,postgres" />
 
 <br/><br/>
 
-### DEVELOPMENT TOOLS
+**DEVELOPMENT TOOLS**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -144,56 +128,53 @@ My interests:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CLEAN_CODE-142B4F?style=flat-square" />
-<img src="https://img.shields.io/badge/PERSIAN_RTL-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-142B4F?style=flat-square" />
+![Python](https://img.shields.io/badge/Python-Learning-2563EB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Backend-142B4F?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-2563EB?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-142B4F?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
-## 🏍️ // Garage
-
-<div align="center">
-
-### PROJECTS IN THE WORKSHOP
-
-</div>
+## 🏍️ // Garage · Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 01 · motor-yadak
+### 01 / motor-yadak
 
-<img src="https://img.shields.io/badge/DJANGO-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-142B4F?style=flat-square" />
+**ONLINE MOTORCYCLE SPARE PARTS STORE**
 
-فروشگاه آنلاین لوازم یدکی موتورسیکلت با رابط کاربری فارسی و تمرکز بر تجربه کاربری مناسب.
+<div dir="rtl">
 
-**STATUS**
+فروشگاه اینترنتی لوازم یدکی موتورسیکلت با طراحی فارسی، رابط کاربری راست‌چین و تمرکز ویژه بر تجربه کاربری مناسب.
 
-<img src="https://img.shields.io/badge/IN_PROGRESS-2563EB?style=flat-square" />
+</div>
 
-</td>
-<td width="50%" valign="top">
+**TECH STACK**
 
-### 02 · Future Projects
+![Django](https://img.shields.io/badge/Django-2563EB?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-142B4F?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-142B4F?style=flat-square&logo=css3&logoColor=white)
 
-<img src="https://img.shields.io/badge/IDEAS-142B4F?style=flat-square" />
-<img src="https://img.shields.io/badge/DEVELOPMENT-2563EB?style=flat-square" />
-
-در حال یادگیری و توسعه پروژه‌های جدید در زمینه طراحی وب، برنامه‌نویسی و نرم‌افزار.
-
-**STATUS**
-
-<img src="https://img.shields.io/badge/LEARNING-2563EB?style=flat-square" />
+**STATUS:** 🟡 IN PROGRESS
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+
+<a href="https://github.com/mehrdaddevv?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 ## 📈 // The Record
 
@@ -212,7 +193,7 @@ My interests:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 ## 🧭 // Code of the Road
 
@@ -220,81 +201,87 @@ My interests:
 <tr>
 <td width="33%" valign="top">
 
-### 🔹 Clean Code
+<h3>🔹 Clean Code</h3>
 
-کدی که شش ماه بعد هم بتوانم بخوانم، بهترین کد است.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔹 RTL from Day One
-
-جهت متن و فونت فارسی را از ابتدا طراحی می‌کنم، نه در آخر کار.
+کدی که شش ماه بعد هم بتوانم بخوانم، کد خوبی است.
 
 </td>
 <td width="33%" valign="top">
 
-### 🔹 Ship, Then Tune
+<h3>🔹 RTL from Day One</h3>
 
-نسخه اولیه را منتشر می‌کنم و بعد بهینه‌سازی را ادامه می‌دهم.
+جهت متن، فونت و تجربه کاربری فارسی را از ابتدا در نظر می‌گیرم.
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🔹 Ship, Then Tune</h3>
+
+ابتدا نسخه اولیه را می‌سازم و سپس به بهینه‌سازی آن می‌پردازم.
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 ## 💻 // Currently
 
-```text
+```console
 mehrdad@developer:~$ status
 
-  > IN PROGRESS    motor-yadak
+  ▸ in progress   motor-yadak
     Django motorcycle spare parts store
 
-  > LEARNING       system design
+  ▸ learning      system design
     Understanding software architecture
 
-  > AVAILABLE      freelance / collaboration
-    Persian web projects
+  ▸ learning      Python & Django
+    Building backend development skills
 
-  > FOCUS          Python / Django / JavaScript
-    Building better software, step by step
+  ▸ available     freelance / collaboration
+    Persian web projects
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 ## 🎯 // Next Milestones
 
-- [ ] Improve Python and Django
+- [ ] Improve Python and Django skills
 - [ ] Build professional web applications
-- [ ] Master JavaScript
-- [ ] Learn advanced software architecture
+- [ ] Learn advanced JavaScript
+- [ ] Improve software architecture knowledge
 - [ ] Contribute to open-source projects
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B4F,100:2563EB&height=2&section=header" width="100%" />
 
 ## 📡 // Reach Out
 
 <div align="center">
 
-**Have an idea for a Persian web application or a development project?**
+Got an idea for a Persian web application or a development project?
 
-I'm interested in learning, building and collaborating.
+I'm always interested in learning, building and collaborating.
 
 <br/>
 
-<a href="https://github.com/mehrdaddevv">
-<img src="https://img.shields.io/badge/GITHUB-My%20Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/mehrdaddevv?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-2563EB?style=for-the-badge&labelColor=101014&logo=github&logoColor=white" height="34" />
 </a>
 
-<a href="https://github.com/mehrdaddevv?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-Explore-142B4F?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/mehrdaddevv?tab=followers">
+<img src="https://img.shields.io/badge/FOLLOW-ME-142B4F?style=for-the-badge&labelColor=101014&logo=github&logoColor=white" height="34" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:142B4F&height=90&section=footer&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE&fontSize=17&fontColor=60A5FA&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,100:142B4F&height=100&section=footer&text=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPROVE&fontSize=18&fontColor=60A5FA&animation=fadeIn" width="100%" />
+
+<br/>
+
+<samp>MEHRDAD · BUILD THINGS · KEEP LEARNING</samp>
+
+<br/><br/>
 
 <sub>Designed & Developed by Mehrdad · 2026</sub>
 
