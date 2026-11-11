@@ -1,17 +1,19 @@
 
-<!--
-  MEHRDADDEVV | Minimal Blue Developer Profile
--->
+<!-- MEHRDADDEVV | Minimal Blue Edition -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:142B4F,100:2563EB&height=190&section=header&text=MEHRDAD&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%7C%20BUILDING%20DIGITAL%20EXPERIENCES&descSize=13&descAlignY=68&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:142B4F,100:2563EB&height=190&section=header&text=MEHRDAD&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%7C%20BUILDING%20DIGITAL%20EXPERIENCES&descSize=13&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-# Hi, I'm Mehrdad 👋
+<a href="https://github.com/mehrdaddevv">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mehrdad+%F0%9F%91%8B;Python+%26+Django+Developer;Learning+Web+Development;Building+Something+New..." />
+</a>
 
-### Junior Developer | Python & Web Development
+<br/>
+
+**Junior Developer | Python & Web Development**
 
 <p dir="rtl">
 هنرجوی شبکه و نرم‌افزار، علاقه‌مند به برنامه‌نویسی،
@@ -23,10 +25,10 @@
 <br/>
 
 <a href="https://github.com/mehrdaddevv">
-  <img src="https://img.shields.io/badge/GitHub-Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/mehrdaddevv?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-Explore-1E293B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -41,7 +43,6 @@ class Developer:
         self.name = "Mehrdad"
         self.username = "mehrdaddevv"
         self.role = "Student Developer"
-        self.location = "Iran"
 
         self.interests = [
             "Web Development",
@@ -67,13 +68,13 @@ class Developer:
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
 <br/><br/>
 
-### Frameworks & Tools
+**Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=django,postgres,git,github,vscode" />
 
@@ -82,14 +83,6 @@ class Developer:
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mehrdaddevv?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ### 🏍️ Motor Yadak
 
@@ -101,7 +94,7 @@ class Developer:
 
 **Technologies:** Django · JavaScript · HTML · CSS
 
-**Status:** In Progress
+**Status:** 🟡 In Progress
 
 ---
 
@@ -109,13 +102,13 @@ class Developer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehrdaddevv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehrdaddevv&theme=github_dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdaddevv&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehrdaddevv&theme=github_dark" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrdaddevv&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=mehrdaddevv&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -125,7 +118,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdaddevv&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdaddevv&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=142B4F&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -143,16 +136,20 @@ class Developer:
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:142B4F&height=2&section=footer" width="100%" />
+
 ### Let's Build Something Great.
 
-**Learning by building. Growing by creating.**
+<sub>Learning by building. Growing by creating.</sub>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mehrdaddevv&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<sub>Designed & Developed by Mehrdad · 2026</sub>
+**Designed & Developed by Mehrdad**
+
+<sub>© 2026 · All Rights Reserved</sub>
 
 </div>
