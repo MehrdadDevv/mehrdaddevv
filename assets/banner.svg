@@ -1,31 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#14112b"/>
+      <stop offset="0" stop-color="#0d0d0d"/>
+      <stop offset="1" stop-color="#171411"/>
     </linearGradient>
-    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#fb923c"/>
     </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#22d3ee" stroke-opacity="0.07" stroke-width="1"/>
-    </pattern>
   </defs>
-  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
-  <rect x="0" y="0" width="1200" height="4" fill="url(#acc)"/>
-  <text x="80" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="84" font-weight="800" fill="#e2e8f0">Mehrdad<tspan fill="#22d3ee">_</tspan></text>
-  <text x="84" y="200" font-family="JetBrains Mono, Consolas, monospace" font-size="24" fill="#a78bfa">~/software-developer</text>
-  <text x="84" y="236" font-family="Vazirmatn, Tahoma, sans-serif" font-size="22" fill="#94a3b8">برنامه‌نویس · ساخت محصولات تمیز، سریع و فارسی‌-اول</text>
-  <g transform="translate(900,70)">
-    <circle cx="20" cy="20" r="6" fill="#f87171"/>
-    <circle cx="44" cy="20" r="6" fill="#fbbf24"/>
-    <circle cx="68" cy="20" r="6" fill="#34d399"/>
-    <rect x="0" y="40" width="240" height="150" rx="10" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.35"/>
-    <text x="16" y="72" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#22d3ee">$ whoami</text>
-    <text x="16" y="98" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#e2e8f0">&gt; builder</text>
-    <text x="16" y="124" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#a78bfa">&gt; django · js</text>
-    <text x="16" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#34d399">&gt; status: online_</text>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)" stroke="#f59e0b" stroke-opacity="0.25"/>
+  <!-- speedometer -->
+  <g transform="translate(930,160)">
+    <circle r="120" fill="none" stroke="#2a2a2a" stroke-width="14"/>
+    <circle r="120" fill="none" stroke="url(#arc)" stroke-width="14" stroke-linecap="round"
+      stroke-dasharray="565 754" transform="rotate(-225)"/>
+    <line x1="0" y1="0" x2="0" y2="-92" stroke="#f5f1e8" stroke-width="4" stroke-linecap="round" transform="rotate(42)"/>
+    <circle r="8" fill="#f5f1e8"/>
+    <text y="58" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#8a8a8a">RPM × 1000</text>
+    <text y="-30" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#f59e0b">ONLINE</text>
   </g>
+  <text x="70" y="120" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#f59e0b" letter-spacing="4">// DEVELOPER · GARAGE OPEN</text>
+  <text x="66" y="208" font-family="Inter, Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#f5f1e8" letter-spacing="2">MEHRDAD</text>
+  <text x="70" y="250" font-family="Vazirmatn, Tahoma, sans-serif" font-size="26" fill="#d6d3cc">توسعه‌دهنده‌ی وب · ساخت ابزار برای کاربران فارسی‌زبان</text>
+  <text x="70" y="284" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#8a8a8a">Django · JavaScript · Persian RTL · built piece by piece</text>
 </svg>
